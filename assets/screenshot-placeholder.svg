@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Screenshot placeholder</title>
+  <desc id="desc">Replace with an authorized screenshot captured by your team.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#dff3ef"/>
+      <stop offset="100%" stop-color="#f6f8fc"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#g)"/>
+  <rect x="80" y="80" width="1040" height="515" rx="16" fill="#fff" stroke="#cbd5e1"/>
+  <rect x="120" y="130" width="260" height="24" rx="8" fill="#0f766e" opacity="0.25"/>
+  <rect x="120" y="190" width="760" height="14" rx="7" fill="#94a3b8" opacity="0.5"/>
+  <rect x="120" y="220" width="680" height="14" rx="7" fill="#94a3b8" opacity="0.35"/>
+  <rect x="120" y="280" width="960" height="230" rx="10" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="600" y="402" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="30" fill="#0f172a">Authorized Product Screenshot Placeholder</text>
+  <text x="600" y="438" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#475569">Add your own licensed UI screenshot for this topic</text>
+</svg>
